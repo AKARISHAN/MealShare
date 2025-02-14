@@ -1,0 +1,2 @@
+# MealShare
+MINI PROJECT PHASE ONE
